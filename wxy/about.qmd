@@ -1,0 +1,12 @@
+---
+title: "About"
+---
+
+This website is about me
+I'm a student at the University of Toronto
+STA Specialist
+
+```{r echo = FALSE}
+1 + 1
+```
+[My CV](cvwxy.pdf)
